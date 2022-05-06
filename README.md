@@ -1,1 +1,3 @@
-# daytrip_repo
+# day trip project
+
+Project
