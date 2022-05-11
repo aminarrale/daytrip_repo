@@ -1,3 +1,0 @@
-# day trip project
-
-Project
